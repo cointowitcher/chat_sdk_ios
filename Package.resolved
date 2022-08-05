@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ZendeskChatProvidersSDK",
+        "repositoryURL": "https://github.com/zendesk/chat_providers_sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "9919407abbd24101d229e23eb510e63d48cce59b",
+          "version": "2.12.0"
+        }
+      },
+      {
+        "package": "ZendeskCommonUISDK",
+        "repositoryURL": "https://github.com/zendesk/commonui_sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "4dbdb26735ab0ac0aa0d16333941e0994bde8794",
+          "version": "6.1.4"
+        }
+      },
+      {
+        "package": "ZendeskMessagingSDK",
+        "repositoryURL": "https://github.com/zendesk/messaging_sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "1a1645c33a00c0705cbe95d536de1b1846e4dcef",
+          "version": "3.8.5"
+        }
+      },
+      {
+        "package": "ZendeskMessagingAPISDK",
+        "repositoryURL": "https://github.com/zendesk/messagingapi_sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "7bc2a7e40dae4c1e519595a7f9978cd639537ddb",
+          "version": "3.8.5"
+        }
+      },
+      {
+        "package": "ZendeskSDKConfigurationsSDK",
+        "repositoryURL": "https://github.com/zendesk/sdkconfigurations_sdk_ios",
+        "state": {
+          "branch": null,
+          "revision": "57c594da47158f319e20aee2746abe25f1f75125",
+          "version": "1.1.11"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
